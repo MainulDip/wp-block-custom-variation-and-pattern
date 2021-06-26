@@ -2,8 +2,8 @@
 
 ___
 
-This is a bare minimub plugin to create custom block variation and pattern in wordpress block editor.
-Note: Block Variation Use Mostly Client Side Integration Where pattern use server side.
+This is a bare minimum plugin to create custom block variation and pattern in wordpress block editor.  
+Note: Block Variation Use Mostly Client Side Integration Where pattern use server side.  
 Choose as your preference :)
 
 ## Instructions
