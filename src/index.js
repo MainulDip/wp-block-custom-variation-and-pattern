@@ -10,7 +10,8 @@ const innerBlocks = [
         'core/heading',
         {
           className: 'hello-World',
-          // style: { color: { background: '#d62075' } },
+          style: { color: { background: '#d62075' } },
+          // color: { background: '#d62075' },
           placeholder: 'Project Title',
           attributes: { style: { color: { background: '#3b20d6' } } }
         }
