@@ -1,5 +1,6 @@
 import { registerBlockVariation } from '@wordpress/blocks'
 import { __ } from '@wordpress/i18n'
+import './style.scss'
 
 const innerBlocks = [
   [
@@ -9,11 +10,9 @@ const innerBlocks = [
       [
         'core/heading',
         {
-          className: 'hello-World',
-          style: { color: { background: '#d62075' } },
-          // color: { background: '#d62075' },
-          placeholder: 'Project Title',
-          attributes: { style: { color: { background: '#3b20d6' } } }
+          className: 'custom-shadow',
+          // style: { color: { background: '#d62075' } },
+          placeholder: 'Project Title'
         }
       ]
     ]

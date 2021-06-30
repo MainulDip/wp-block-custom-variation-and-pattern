@@ -1,0 +1,15 @@
+{
+	"apiVersion": 2,
+	"name": "wp-mainul-dip/wp-block-custom-variatioon-and-pattern",
+	"title": "Scafold-block",
+	"category": "text",
+	"icon": "smiley",
+	"description": "Custom scafold block",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "wp-block-custom-variatioon-and-pattern-lg",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
